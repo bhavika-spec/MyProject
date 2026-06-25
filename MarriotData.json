@@ -1,0 +1,16 @@
+{
+  "bookings": [
+    {
+      "id": "1-abs",
+      "type": "specific",
+      "dayFromToday": "0",
+      "nights": "5"
+    },
+    {
+      "id": "1-abc",
+      "type": "flexible",
+      "startMonth": "June",
+      "nights": "5"
+    }
+  ]
+}
